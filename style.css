@@ -1,0 +1,155 @@
+nav {
+	height: 80px;
+	width: auto;
+	background-color: #330000;
+	
+	text-align: center;
+
+}
+
+#PIZZACAMP {
+	display: inline-block;
+	width: 80%;
+    text-shadow: 2px 2px #ff0000;
+    position: relative;
+    bottom: 25px;
+    font-size: 30px;
+
+
+
+	
+}
+nav h1 {
+	display: inline-block;
+	color: #ffbf00	;
+
+
+
+} 
+img {
+	height: 90px;
+	width: 90px;
+	bottom: 5px;
+	
+}
+/*
+ul {
+	margin: 20px;
+	text-align: right;
+	border: solid red 2px;
+	width: 50px
+}
+li{
+	list-style-type: none;
+
+}*/
+section{
+	text-align: center;
+}
+.container div {
+	border-radius: 40px;
+}
+.container {
+	display: flex;
+	text-align: center;
+
+	/*flex-direction: row;*/
+}
+div#item1{
+ 
+  border: 2px solid #ffbf00;
+  margin: 20px;
+  width:300px;
+  margin-left:100px;
+ /* margin-left: auto;
+  margin-right: auto;*/
+}
+div#item2{
+	
+	border: 2px solid #ffbf00;
+	margin: 20px;
+	width:300px;
+	margin-left: auto;
+    margin-right: auto;
+}
+div#item3{
+	
+	border: 2px solid #ffbf00;
+
+	margin: 20px;
+	width:300px;
+	margin-right:100px;
+
+}
+
+
+div#item4{
+ 
+  border: 2px solid #ffbf00;
+  margin: 20px;
+  width:300px;
+  	margin-left:100px;
+ /* margin-left: auto;
+  margin-right: auto;*/
+}
+div#item5{
+	
+	border: 2px solid #ffbf00;
+	margin: 20px;
+	width:300px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+div#item6{
+	
+	border: 2px solid #ffbf00;
+	margin: 20px;
+	width:300px;
+	margin-right:100px;
+
+}
+body {
+	background-color: #0d0d0d;
+}
+.container img{
+width: 200px;
+height: 250px;
+border-radius: 10px;
+border: solid 2px #ffbf00;
+}
+.container div {
+
+	color: #ffbf00	;
+	background-color: #330000;
+}
+
+.container p {
+	display: inline-block;
+}
+section button {
+	width: 30px;
+	margin: 5px;
+	border-radius: 5px;
+}
+#total-section {
+	color: #ffbf00;
+	background-color: #330000;
+	height: 400px;
+	padding: 10px;
+	text-align: center;
+}
+
+footer p {
+	color: white;
+	text-align: center;
+}
+footer a {
+	color: #ffbf00;
+}
+
+nav img {
+	position: relative;
+	right:120px
+	margin:10px;
+}
