@@ -6,7 +6,9 @@ nav {
 	text-align: center;
 
 }
-
+li {
+	list-style-type: none; 
+}
 #PIZZACAMP {
 	display: inline-block;
 	width: 80%;
@@ -30,7 +32,7 @@ img {
 	height: 90px;
 	width: 90px;
 	bottom: 5px;
-	
+
 }
 /*
 ul {
